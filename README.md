@@ -114,7 +114,7 @@ Each option provides guided input prompts and displays detailed output in the te
 DevKay_Network_Toolkit/
 ├── devkay_network_toolkit.py # Main executable script
 ├── requirements.txt          # Python dependencies
-├── LICENSE                   # MIT license file
+├── LICENSE                   # License file
 ├── README.md                 # Project documentation
 
 ```
@@ -132,6 +132,8 @@ Contributions are welcome! To suggest improvements or report issues:
 5. Open a Pull Request.
 
 Please adhere to the existing code style and include tests or screenshots where applicable.
+
+---
 
 ## 💼 License
 
